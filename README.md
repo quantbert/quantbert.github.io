@@ -1,4 +1,4 @@
 # quantbert.github.io
-this is the blog of QuantBerts Adbventures
+this is the blog of QuantBerts Adventures
 
 
